@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.idea/.gitignore
+.idea/misc.xml
+.idea/modules.xml
+.idea/OpenAI Chat API.iml
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/inspectionProfiles/profiles_settings.xml
